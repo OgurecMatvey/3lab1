@@ -1,8 +1,4 @@
-"""
-Табличное представление курсов валют (ttk.Treeview).
 
-Автор: frontend (участник 2)
-"""
 from __future__ import annotations
 
 import tkinter as tk
